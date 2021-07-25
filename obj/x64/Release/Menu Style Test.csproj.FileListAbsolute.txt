@@ -1,0 +1,16 @@
+C:\Users\SteveSAMA\source\repos\Menu Style Test\bin\x64\Release\Menu Style Test.exe.config
+C:\Users\SteveSAMA\source\repos\Menu Style Test\bin\x64\Release\Menu Style Test.exe
+C:\Users\SteveSAMA\source\repos\Menu Style Test\bin\x64\Release\Menu Style Test.pdb
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test.csproj.AssemblyReference.cache
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\MainWindow.g.cs
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\App.g.cs
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test_MarkupCompile.cache
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test_MarkupCompile.lref
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\App.baml
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\MainWindow.baml
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test.g.resources
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu_Style_Test.Properties.Resources.resources
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test.csproj.GenerateResource.cache
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test.csproj.CoreCompileInputs.cache
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test.exe
+C:\Users\SteveSAMA\source\repos\Menu Style Test\obj\x64\Release\Menu Style Test.pdb

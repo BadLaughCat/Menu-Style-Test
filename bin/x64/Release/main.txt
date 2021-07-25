@@ -1,0 +1,15 @@
+Open
+Open With
+-
+Move to Trash
+-
+Get Info
+Rename
+Duplicate
+Make Alias
+Compress
+Share
+-
+Copy
+-
+Reveal in Finder
